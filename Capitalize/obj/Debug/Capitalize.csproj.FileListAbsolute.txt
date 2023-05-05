@@ -1,0 +1,8 @@
+C:\Users\Deep Gayen\source\repos\Practice Codes\Capitalize\bin\Debug\Capitalize.exe.config
+C:\Users\Deep Gayen\source\repos\Practice Codes\Capitalize\bin\Debug\Capitalize.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\Capitalize\bin\Debug\Capitalize.pdb
+C:\Users\Deep Gayen\source\repos\Practice Codes\Capitalize\obj\Debug\Capitalize.csproj.AssemblyReference.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Capitalize\obj\Debug\Capitalize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Capitalize\obj\Debug\Capitalize.csproj.CoreCompileInputs.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Capitalize\obj\Debug\Capitalize.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\Capitalize\obj\Debug\Capitalize.pdb
