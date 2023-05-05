@@ -1,0 +1,8 @@
+C:\Users\Deep Gayen\source\repos\Practice Codes\PalindromeString\bin\Debug\PalindromeString.exe.config
+C:\Users\Deep Gayen\source\repos\Practice Codes\PalindromeString\bin\Debug\PalindromeString.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\PalindromeString\bin\Debug\PalindromeString.pdb
+C:\Users\Deep Gayen\source\repos\Practice Codes\PalindromeString\obj\Debug\PalindromeString.csproj.AssemblyReference.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\PalindromeString\obj\Debug\PalindromeString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\PalindromeString\obj\Debug\PalindromeString.csproj.CoreCompileInputs.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\PalindromeString\obj\Debug\PalindromeString.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\PalindromeString\obj\Debug\PalindromeString.pdb
